@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate as Frontend developer
 - 💬 Ask me about ...
 - 📫 You can reach me on [Instagram](https://instagram.com/walkexperience)
-- 😄 Hike: [Youtube Channel](https://youtube.com/walkexperience/)
+- 😄 Hike: [Youtube Channel](https://www.youtube.com/channel/UCYs7CslihNZaOCJiGqCD0cw)
 - ⚡ Fun fact: 
 
 ## ⚡ Technologies
