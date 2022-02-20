@@ -21,6 +21,6 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-181717?style=flat-square&logo=wordpress)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Node](https://nodejs.org/static/images/logo.svg/-CSS3-1572B6?style=flat-square&logo=css3)
+![Node](https://img.shields.io/badge/-NODE-black?style=flat-square&logo=Node)
 
 
